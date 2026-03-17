@@ -2,7 +2,17 @@
 
 A modern, responsive portfolio website built with React, TypeScript, Vite, Tailwind CSS, and Framer Motion.
 
-## Tech Stack
+## Languages & Technologies
+
+The following languages are supported:
+
+### Core Languages
+- **TypeScript** - Primary development language with full type safety
+- **JavaScript (ES2020+)** - Runtime execution environment
+- **HTML5** - Markup structure
+- **CSS3** - Styling with modern features
+
+### Tech Stack
 
 - **Frontend Framework**: React 18
 - **Build Tool**: Vite 6
@@ -12,6 +22,8 @@ A modern, responsive portfolio website built with React, TypeScript, Vite, Tailw
 - **Animations**: Framer Motion
 - **Icons**: Lucide React & React Icons
 - **Forms**: React Hook Form with Zod validation
+- **Routing**: Wouter (lightweight React router)
+- **State Management**: TanStack React Query
 
 ## Local Development
 

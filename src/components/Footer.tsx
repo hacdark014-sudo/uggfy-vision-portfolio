@@ -14,14 +14,15 @@ export function Footer() {
           </span>
         </div>
         
-        <p className="text-muted-foreground text-sm text-center md:text-left">
-          &copy; {new Date().getFullYear()} Aman Kumar. All rights reserved.
+        <p className="text-muted-foreground text-sm text-center">
+          &copy; {new Date().getFullYear()} Aman Kumar // UGGFY.VISION. All systems operational.
         </p>
         
         <div className="flex items-center gap-6">
           <a href="#about" className="text-sm text-muted-foreground hover:text-primary transition-colors">About</a>
           <a href="#projects" className="text-sm text-muted-foreground hover:text-primary transition-colors">Projects</a>
           <a href="#services" className="text-sm text-muted-foreground hover:text-primary transition-colors">Services</a>
+          <a href="#contact" className="text-sm text-muted-foreground hover:text-primary transition-colors">Contact</a>
         </div>
         
       </div>
